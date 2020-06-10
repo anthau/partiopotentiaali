@@ -1,0 +1,357 @@
+Aitolahden Hirvi-Veikot ry;9999604;Aitolahden Hirvi-Veikot;Jenseninkatu 1;33610;Tampere;;61.521242;23.947706;;;;
+Aitolahden Hirvi-Veikot ry;9999604;Aitolahden Hirvi-Veikot;Jenseninkatu 1;33610;Tampere;;61.521242;23.947706;;;;
+Aitopartio ry;9999605;Kolo;Jenseninkatu 1;33610;Tampere;;61.521324;23.94805;;;www.aitopartio.fi;Kolomme sijaitsee Aitolahden kirkon vieressä, keltaisen pienkerrostalon alimmassa kerroksessa. Sisäänkäynti parkkipaikan puolelta.
+Aitopartio ry;9999605;Kolo;Jenseninkatu 1;33610;Tampere;;61.521324;23.94805;;;www.aitopartio.fi;Kolomme sijaitsee Aitolahden kirkon vieressä, keltaisen pienkerrostalon alimmassa kerroksessa. Sisäänkäynti parkkipaikan puolelta.
+Alastaron Jyväset ry;9999266;Kolo;Virttaantie 3 as 1;32440;Alastaro;;60.9507527;22.8618587;Emilia Kivelä;;;
+Artjärven Eränkävijät ry;9999128;Srk-talo;Kirkkotie 23;16200;Artjärvi;;60.746418;26.076152;;;;
+Aurinkovuoren Vartijat ry;9999128;Vääksyn vanhan nuokun yläkerta;Kanavatie 16;17200;Vääksy;;61.174772;25.538508;;;;
+Aurinkovuoren Vartijat ry;9999809;Vääksyn vanhan nuokun yläkerta;Kanavatie 16;17200;Vääksy;;61.174772;25.538508;;;;
+Erä-Pirkot ry;9999606;Lempäälän SRK-talo;Kirkkopolku 1;37500;Lempäälä;;61.313194;23.751879;;;;
+Erä-Pirkot ry;9999366;Lempäälän SRK-talo;Kirkkopolku 1;37500;Lempäälä;;61.313194;23.751879;;;;
+Forssan Tornitulet ja Tornihaukat ry;9999607;Kolo;I linja 4;30100;Forssa;;60.815658;23.634356;;;;
+Forssan Tornitulet ja Tornihaukat ry;9999731;Kolo;I linja 4;30100;Forssa;;60.815658;23.634356;;;;
+Harjun Pojat ry;9999609;Ruutanan kolo;Seurakunnantie 6;;Ruutana;;61.527271;24.020743;;;;
+Harjun Pojat ry;9999609;Ruutanan kolo;Seurakunnantie 6;;Ruutana;;61.527271;24.020743;;;;
+Harjun Pojat ry;9999609;Kirkonkylän kolo;Tapulintie 2;36200;Kangasala;;61.464158;24.069194;;;;
+Harjun Pojat ry;9999609;Kirkonkylän kolo;Tapulintie 2;36200;Kangasala;;61.464158;24.069194;;;;
+Harjun Pojat ry;9999609;Suoraman kolo;Suoramantie 9;36220;Kangasala;;61.472383;24.010575;;;;
+Harjun Pojat ry;9999610;Suoraman kolo;Suoramantie 9;36220;Kangasala;;61.472383;24.010575;;;;
+Harjun Veikot ry;9999610;Pispalan Kirkko;Pispalan valtatie 16;33250;Tampere;;61.506064;23.70479;;;;Pispalan kirkon alakerrassa. Talon yläkerrassa lpk:n toimisto Lisäksi kokoonnumme Tesoman kirkolla, Lielahden kirkolla ja Epilä seurakuntalolla. Leirejä pidämme pääsääntöisesti omalla leirialueellamme, Valkeekivessä, Näsijärven rannalla sekä Tampereen ympäristön kurssikeskuksilla.
+Harjun Veikot ry;9999610;Pispalan Kirkko;Pispalan valtatie 16;33250;Tampere;;61.506064;23.70479;;;;Pispalan kirkon alakerrassa. Talon yläkerrassa lpk:n toimisto Lisäksi kokoonnumme Tesoman kirkolla, Lielahden kirkolla ja Epilä seurakuntalolla. Leirejä pidämme pääsääntöisesti omalla leirialueellamme, Valkeekivessä, Näsijärven rannalla sekä Tampereen ympäristön kurssikeskuksilla.
+Harjun Veikot ry;9999610;Epilän Seurakuntatalo;Suurmäenkatu 5;33270;Tampere;;61.523498;23.67994;;;;
+Harjun Veikot ry;9999610;Epilän Seurakuntatalo;Suurmäenkatu 5;33270;Tampere;;61.523498;23.67994;;;;
+Harjun Veikot ry;9999610;Tesoman Kirkko;Tesomankuja 11;33310;Tampere;;61.505314;23.624665;;;;
+Harjun Veikot ry;9999610;Tesoman Kirkko;Tesomankuja 11;33310;Tampere;;61.505314;23.624665;;;;
+Harjun Veikot ry;9999610;Lielahden Kirkko;Ollinojankatu 2;33400;Tampere;;61.504113;23.65706;;;;
+Harjun Veikot ry;9999130;Lielahden Kirkko;Ollinojankatu 2;33400;Tampere;;61.504113;23.65706;;;;
+Harjunalustan Siniveljet ry;9999130;Harjunalusta;Okeroistentie 58;15800;Lahti;;60.9767;25.617768;;;http://www.lahdenseurakuntayhtyma.fi/henkilot_tilat/seurakuntakodit/harjunalustan_seurakuntakoti;
+Harjunalustan Siniveljet ry;9999130;Harjunalusta;Okeroistentie 58;15800;Lahti;;60.9767;25.617768;;;http://www.lahdenseurakuntayhtyma.fi/henkilot_tilat/seurakuntakodit/harjunalustan_seurakuntakoti;
+Harjunalustan Siniveljet ry;9999130;Salpausselän kirkko;Petsamonkatu 10;15830;Lahti;;60.9815639;25.5868412;;;http://www.lahdenseurakuntayhtyma.fi/henkilot_tilat/kirkot/salpausselan_kirkko;
+Harjunalustan Siniveljet ry;9999130;Jalkaranta;Sarvikatu 9;15950;Lahti;;60.994439;25.596672;;;http://www.lahdenseurakuntayhtyma.fi/henkilot_tilat/seurakuntakodit/jalkarannan_seurakuntakoti;
+Harjunalustan Siniveljet ry;9999611;Jalkaranta;Sarvikatu 9;15950;Lahti;;60.994439;25.596672;;;http://www.lahdenseurakuntayhtyma.fi/henkilot_tilat/seurakuntakodit/jalkarannan_seurakuntakoti;
+Harjusiskot ry;9999611;Pispalan kirkko;Pispalan valtatie 16;33250;Tampere;;61.506122;23.704135;;;;
+Harjusiskot ry;9999611;Pispalan kirkko;Pispalan valtatie 16;33250;Tampere;;61.506122;23.704135;;;;
+Harjusiskot ry;9999611;Epilän seurakuntatalo;Suurmäenkatu 5;33270;Tampere;;61.523498;23.67994;;;;
+Harjusiskot ry;9999611;Epilän seurakuntatalo;Suurmäenkatu 5;33270;Tampere;;61.523498;23.67994;;;;
+Harjusiskot ry;9999611;Lielahden kirkko;Ollinojankatu 2;33400;Tampere;;61.504113;23.65706;;;;
+Harjusiskot ry;9999612;Lielahden kirkko;Ollinojankatu 2;33400;Tampere;;61.504113;23.65706;;;;
+Hauhon Partiolaiset ry;9999612;Hauhon seurakuntatalo;Kotkontie 3;14700;Hauho;;61.171766;24.556044;;;;
+Hauhon Partiolaiset ry;9999612;Hauhon seurakuntatalo;Kotkontie 3;14700;Hauho;;61.171766;24.556044;;;;
+Hauhon Partiolaiset ry;9999612;Eteläisten Seurakuntakoti;Västingintie 8 A 5;14770;Eteläinen;;61.070101;24.678496;;;;
+Hauhon Partiolaiset ry;9999613;Eteläisten Seurakuntakoti;Västingintie 8 A 5;14770;Eteläinen;;61.070101;24.678496;;;;
+Hervannan Hukat ry;9999613;Hervannan kirkko;Lindforsinkatu 7;33720;Tampere;;61.45003;23.845191;;;;
+Hervannan Hukat ry;9999732;Hervannan kirkko;Lindforsinkatu 7;33720;Tampere;;61.45003;23.845191;;;;
+Hirviveikot ry;9999131;Kirkkopuiston kolo;Kirkkopolku 2 A;11100;Riihimäki;;60.736270;24.772362;Ilkka Olkkonen;;;
+Hirviveikot ry;9999132;Kirkkopuiston kolo;Kirkkopolku 2 A;11100;Riihimäki;;60.736270;24.772362;Ilkka Olkkonen;;;
+Hollolan Hirvenhiihtäjät ry;9999132;Sovituksen kirkko, partiokolo;Keskuskatu 2;15870;Hollola;;60.98707;25.50859;;;;
+Hollolan Hirvenhiihtäjät ry;9999132;Sovituksen kirkko, partiokolo;Keskuskatu 2;15870;Hollola;;60.98707;25.50859;;;;
+Hollolan Hirvenhiihtäjät ry;9999132;Kirkonkylä (Parinpelto);Parinpellontie 173;16710;Hollolan KK;;61.06656;25.42357;;;;
+Hollolan Hirvenhiihtäjät ry;9999132;Kirkonkylä (Parinpelto);Parinpellontie 173;16710;Hollolan KK;;61.06656;25.42357;;;;
+Hollolan Hirvenhiihtäjät ry;9999132;Vesikansan seurakuntatalo;Paimelantie 52;17110;Kalliola;;61.06450;25.66563;;;;
+Hollolan Hirvenhiihtäjät ry;9999173;Vesikansan seurakuntatalo;Paimelantie 52;17110;Kalliola;;61.06450;25.66563;;;;
+Honkahukat ry;9999174;Puukoulun Partiokolo;Katkontie 7;38950;Honkajoki;;61.993661;22.26393;;;;
+Huittisten Eränkävijät ry;9999615;huittisten seurakuntakeskus;Papintie 1;32700;Huittinen;;61.180215;22.689159;Sari Harjunmaa;;;
+Humppilan Ilvespojat ry;9999615;Kolo;Lehtokuja 1;31640;Humppila;;60.923563;23.3651279;Mervi Sundholm;503251537;;
+Hämeen Haka-Versot ry;9999616;;Lukiokatu 15 D;13100;Hämeenlinna;;60.998435;24.461817;;;;
+Hämeen Haka-Versot ry;9999406;;Lukiokatu 15 D;13100;Hämeenlinna;;60.998435;24.461817;;;;
+Hämeenkyrön Hälläpyörät ry;9999618;Kellari;Valtakatu 57;39200;Kyröskoski;;61.6668;23.1800;;;;
+Hämeenkyrön Hälläpyörät ry;9999618;Kellari;Valtakatu 57;39200;Kyröskoski;;61.6668;23.1800;;;;
+Hämeenkyrön Hälläpyörät ry;9999618;Viljakkalan seurakuntatalo;Virkatie 2;39310;Viljakkala;;61.7051;23.2679;;;;
+Hämeenkyrön Hälläpyörät ry;9999619;Viljakkalan seurakuntatalo;Virkatie 2;39310;Viljakkala;;61.7051;23.2679;;;;
+Hämeenlinnan Metsänkävijät ry;9999619;Kolo, Karikko;Turun Valtatie 433;13500;Hämeenlinna;;60.950285;24.4056954;;;http://www.hameenlinnanmetsankavijat.fi/;
+Hämeenlinnan Metsänkävijät ry;9999620;Kolo, Karikko;Turun Valtatie 433;13500;Hämeenlinna;;60.950285;24.4056954;;;http://www.hameenlinnanmetsankavijat.fi/;
+Härmälän Haukat ry;9999623;;Antinkatu 3;33900;Tampere;;61.46771;23.750206;;;;Härmälän kirkolla, alimmassa kerroksessa seurakuntatalon yhteydessä. Toinen kolo Peltolammin seurakuntatalolla.
+Härmälän Haukat ry;9999624;;Antinkatu 3;33900;Tampere;;61.46771;23.750206;;;;Härmälän kirkolla, alimmassa kerroksessa seurakuntatalon yhteydessä. Toinen kolo Peltolammin seurakuntatalolla.
+Härmälän Ilvestytöt ry;9999624;Peltolammin srk-talo;Tilkonmäenkatu 4;33840;Tampere;;61.4561763;23.7529896;Ida Tiihonen;;;
+Härmälän Ilvestytöt ry;9999624;Härmälän kirkko;Talvitie 26;33900;Tampere;;61.467819;23.750147;Ida Tiihonen;;www.ilvestytot.net;
+Härmälän Ilvestytöt ry;9999625;Härmälän kirkko;Talvitie 26;33900;Tampere;;61.467819;23.750147;Ida Tiihonen;;www.ilvestytot.net;
+Ikaalisten Korpi-Kotkat ry;9999625;Partiokolo;Vanha Tampereentie 6;39500;Ikaalinen;;61.7705967;23.0578958;Elina Maunula;405742340;;
+Jaakon Samoojat ry;9999628;Rengon seurakuntatalo;Hinkaloistentie 1;14300;Renko;;60.8930489;24.2827964;;;;
+Jaakon Samoojat ry;9999629;Rengon seurakuntatalo;Hinkaloistentie 1;14300;Renko;;60.8930489;24.2827964;;;;
+Jaarlin Pojat ry;9999629;Hämeen suoja;Palokunnankatu 12;13100;Hämeenlinna;;60.99592;24.468404;;;;
+Jaarlin Pojat ry;9999582;Hämeen suoja;Palokunnankatu 12;13100;Hämeenlinna;;60.99592;24.468404;;;;
+Janakkalan Ilvekset ry;9999630;Partiokolo;Juttilantie 2;14200;Turenki;;60.919267;24.646764;;;www.jail.fi;
+Janakkalan Ilvekset ry;9999631;Partiokolo;Juttilantie 2;14200;Turenki;;60.919267;24.646764;;;www.jail.fi;
+Jokioisten Korvenkävijät ry;9999631;;Kirkkotie 111;;;;60.8114219;23.4606931;;;;
+Jokioisten Korvenkävijät ry;9999631;Kolo;31600 Jokioinen;31600;Jokioinen;;60.811466;23.462081;Toivo Vainio;;;
+Jokioisten Korvenkävijät ry;9999167;Kolo;Kirkkotie 111;31600;Jokioinen;;60.811466;23.462081;Toivo Vainio;;;
+Joutjärven Tapulitytöt ry;9999167;Karisto;Kauppiaankatu 2;15160;Lahti;;60.977089;25.752434;;;;
+Joutjärven Tapulitytöt ry;9999167;Karisto;Kauppiaankatu 2;15160;Lahti;;60.977089;25.752434;;;;
+Joutjärven Tapulitytöt ry;9999167;Joutjärven kirkko;Ilmarisentie 1;15170;Lahti;;60.984558;25.702515;;;;
+Joutjärven Tapulitytöt ry;9999167;Joutjärven kirkko;Ilmarisentie 1;15170;Lahti;;60.984558;25.702515;;;;
+Joutjärven Tapulitytöt ry;9999167;Ahtialan seurakuntakeskus;Alasenkatu 4;15300;Lahti;;61.000062;25.757918;;;;
+Joutjärven Tapulitytöt ry;9999167;Ahtialan seurakuntakeskus;Alasenkatu 4;15300;Lahti;;61.000062;25.757918;;;;
+Joutjärven Tapulitytöt ry;9999167;Kunnaksen seurakuntakoti;Opintie 2;15340;Lahti;;61.012117;25.798473;;;;
+Joutjärven Tapulitytöt ry;9999759;Kunnaksen seurakuntakoti;Opintie 2;15340;Lahti;;61.012117;25.798473;;;;
+Juupajoen Eräpartio ry;9999632;Toimintavintti;Koskitie 65;35500;Korkeakoski;;61.8000606;24.3680697;Anne Pärssinen;456788607;;anneparssinen@gmail.com
+Juupajoen Eräpartio ry;9999632;Seurakuntala;Kopsamontie 200;35540;Juupajoki;;61.7852578;24.4539188;;;;
+Juupajoen Eräpartio ry;9999176;Seurakuntala;Kopsamontie 200;35540;Juupajoki;;61.7852578;24.4539188;;;;
+Jämijärven Miilunvartijat ry;9999420;Miilunvartijain kolo;Puhdistamontie;38800;Jämijärvi;;61.821132;22.707346;;;;
+Kalevan Karhut ry;9999633;Puistokoulu;Sairaalankatu 6;33100;Tampere;;61.4932334;23.7814939;;;;Väliaikainen kokoontumispaikka yhdelle kouluryhmälle.
+Kalevan Karhut ry;9999633;Ilmarinkadun kolo;Ilmarinkatu 37 B;33500;Tampere;;61.502369;23.795786;;;;
+Kalevan Karhut ry;9999633;Ilmarinkadun kolo;Ilmarinkatu 37 B;33500;Tampere;;61.502369;23.795786;;;;
+Kalevan Karhut ry;9999633;Kalevan kirkko;Liisanpuisto 1;33540;Tampere;;61.499195;23.793597;;;;Sudenpennut kokoontuu Kalevan kirkolla saleissa 6 ja 7.
+Kalevan Karhut ry;9999634;Kalevan kirkko;Liisanpuisto 1;33540;Tampere;;61.499195;23.793597;;;;Sudenpennut kokoontuu Kalevan kirkolla saleissa 6 ja 7.
+Kalevan Suuntatytöt;9999634;Kalevan kirkko, seurakuntatilat;Liisanpuisto 1;33540;Tampere;;61.498961;23.793912;Sirpa Jern;405199103;www.kalevansuuntatytot.fi;Tarjoamme toimintaa kaikille ikäkausille.
+Kalevan Suuntatytöt;9999843;Kalevan kirkko, seurakuntatilat;Liisanpuisto 1;33540;Tampere;;61.498961;23.793912;Sirpa Jern;405199103;www.kalevansuuntatytot.fi;Tarjoamme toimintaa kaikille ikäkausille.
+Kalvolan Katajasiskot ry;9999636;Hukarin nuorisotalo;Iittalantie 211;14500;Iittala;;61.090875;24.1200672;;;;
+Kalvolan Olavinpojat ry;9999637;Hukarin Aitta;Iittalantie 211;14500;Iittala;;61.090875;24.1200672;Antti Frusti;400873619;;
+Kanavan Vartijat ry;9999637;Lempäälän SRK-talo;Kirkkopolku 1;37500;Lempäälä;;61.313231;23.75055;;;;
+Kanavan Vartijat ry;9999177;Lempäälän SRK-talo;Kirkkopolku 1;37500;Lempäälä;;61.313231;23.75055;;;;
+Kankaanpään Korpiveikot ry;9999733;Partiokolo;Asemakatu 11;38700;Kankaanpää;;61.80258;22.394391;;;;
+Karkun Samoojat ry;9999638;Karkun srk-talo;Passinmäentie 14;38100;Sastamala;;61.447378;23.045561;;;;
+Karkun Samoojat ry;9999638;Karkun srk-talo;Passinmäentie 14;38100;Sastamala;;61.447378;23.045561;;;;
+Karkun Samoojat ry;9999638;Salokunnan kirkko;Kärppäläntie 226;38140;Sastamala;;61.374995;23.110453;;;;
+Karvian Majavapartio ry;9999639;;Kirkkoväärtintie 1;39930;Karvia;;62.136133;22.559551;;;;
+Kaskenkaatajat ry;9999639;"Kolot ""Hanski"" ja ""Parta""";Verhonkatu 25-27 C;13130;Hämeenlinna;;60.991481;24.440853;LPKJ Antti Hieta;;;Lippukunnalla on kaksi koloa. Kolot sijaitsevat samassa osoitteessa.
+Kaskenkaatajat ry;9999640;"Kolot ""Hanski"" ja ""Parta""";Verhonkatu 25-27 C;13130;Hämeenlinna;;60.991481;24.440853;LPKJ Antti Hieta;;;Lippukunnalla on kaksi koloa. Kolot sijaitsevat samassa osoitteessa.
+Kaukapartio ry;9999640;Kaukajärven SRK-talo;Keskisenkatu 20;33710;Tampere;;61.472374;23.875161;;;;Vanhan kolon lisäksi käytössä toinen kolo Levonmäen SRK-talolla.
+Kaukapartio ry;9999640;Levonmäen srk-talo;Hikivuorenkatu 63;33710;Tampere;;61.463113;23.90625;;;;
+Kaukapartio ry;9999640;Kaukajärven SRK-talo;Keskisenkatu 20;33710;Tampere;;61.472374;23.875161;;;;Vanhan kolon lisäksi käytössä toinen kolo Levonmäen SRK-talolla.
+Kaukapartio ry;9999180;Levonmäen srk-talo;Hikivuorenkatu 63;33710;Tampere;;61.463113;23.90625;;;;
+Keikyän Korvenkävijät ry;9998949;;Pehulankaari 6;32740;Sastamala;;61.286691;22.69693;;;;
+Kihniön Katajaiset ry;9999641;Linnankylän asema;Harjulantie;39810;Linnankylä;;62.108119;23.159566;;;;
+Kihniön Katajaiset ry;9999181;Linnankylän asema;Harjulantie;39810;Linnankylä;;62.108119;23.159566;;;;
+Kiikan Leiripeikot ry;9999181;;Länsitie 3;38300;Sastamala;;61.317437;22.776391;Elina Hituri;;;
+Kiikan Leiripeikot ry;9999182;;Länsitie 3;38300;Sastamala;;61.317437;22.776391;Elina Hituri;;;
+Kipinäpartio ry;9999886;SRK-talo;Kirkkopolku 3;39700;Parkano;;62.014003;23.022272;Juhani Haapakoski;;www.kipinapartio.fi;
+Kosken Kerkät;9999644;Yhdistystalo;Hämeentie 43;31500;Koski Tl;;60.658631;23.146206;;;;
+Kostian Kahlaajat ry;9999644;Kolo;Onkkaalantie 81;36600;Pälkäne;;61.338957;24.266198;Mikko Sorrela;;;
+Kostian Kahlaajat ry;9999820;Kolo;Onkkaalantie 81;36600;Pälkäne;;61.338957;24.266198;Mikko Sorrela;;;
+Kuhmoisten Korpisudet ry;10000052;Nuorisotalo Kuhnu;Toritie 65;17800;Kuhmoinen;;61.56669;25.182368;;;;
+Kuhmoisten Korpisudet ry;9999721;Nuorisotalo Kuhnu;Toritie 65;17800;Kuhmoinen;;61.56669;25.182368;;;;
+Kuikkavuoren Pojat ry;9999135;Kämppä;Maaherrankatu 17;18100;Heinola;;61.201562;26.037739;;;;
+Kuikkavuoren Pojat ry;10000048;Kämppä;Maaherrankatu 17;18100;Heinola;;61.201562;26.037739;;;;
+Kuoreveden Kotkat ry;9999648;Kolo, Kuoreveden koulu;Lentokentäntie;;;;61.8605197;24.8227532;;;http://www.kuorevedenkotkat.net/;
+Kuoreveden Kotkat ry;9999464;Kolo, Kuoreveden koulu;Lentokentäntie;;;;61.8605197;24.8227532;;;http://www.kuorevedenkotkat.net/;
+Kurun Kontiot ry;9999653;Kurun seurakuntatalo;Kirkkotie 1;34300;KURU;;61.876038;23.723454;Martti Kauppinen;;;
+Kurun Kontiot ry;9998906;Kurun seurakuntatalo;Kirkkotie 1;34300;KURU;;61.876038;23.723454;Martti Kauppinen;;;
+Kymen Vartiot ry;9999137;Pesä;Pappilankuja 2c;18100;Heinola;;61.202652;26.037834;;;;
+Kymen Vartiot ry;9999374;Pesä;Pappilankuja 2c;18100;Heinola;;61.202652;26.037834;;;;
+Kyynärön Kiertäjät ry;9999654;Kuljun vanha seurakuntatalo;Seurakuntatalontie 12;37560;Lempäälä;;61.3850708;23.7749263;;;;
+Kyynärön Kiertäjät ry;9999139;Kuljun vanha seurakuntatalo;Seurakuntatalontie 12;37560;Lempäälä;;61.3850708;23.7749263;;;;
+Kärkölän Kärpät ry;9999139;;;;;;60.8732977;25.2700622;;;;
+Kärkölän Kärpät ry;9999139;Seurakuntakeskus;Sammalistontie 1;16600;Järvelä;;60.87288;25.272637;Susanna Mutanen;;;
+Kärkölän Kärpät ry;9998907;Seurakuntakeskus;Sammalistontie 1;16600;Järvelä;;60.87288;25.272637;Susanna Mutanen;;;
+Lahden Katajaiset ry;9999141;KESKUSTA;Kirkkokatu 7;15110;Lahti;;60.985173;25.655945;;;;
+Lahden Katajaiset ry;9999141;KESKUSTA;Kirkkokatu 7;15110;Lahti;;60.985173;25.655945;;;;
+Lahden Katajaiset ry;9999141;ANKKURIN SEURAKUNTAKOTI;Laiturikatu 1;15140;Lahti;;60.995654;25.6543;;;;
+Lahden Katajaiset ry;9999141;ANKKURIN SEURAKUNTAKOTI;Laiturikatu 1;15140;Lahti;;60.995654;25.6543;;;;
+Lahden Katajaiset ry;9999141;MUKKULAN KIRKKO;Kilpiäistentie 1;15240;Lahti;;61.016921;25.667249;;;;
+Lahden Katajaiset ry;9999143;MUKKULAN KIRKKO;Kilpiäistentie 1;15240;Lahti;;61.016921;25.667249;;;;
+Lahden Siniset ry;9999143;Kirkkokatu 7, sisäänkäynti Mariankadun puolelta;Kirkkokatu 7;15110;Lahti;;60.985115;25.656445;;;;
+Lahden Siniset ry;9999146;Kirkkokatu 7, sisäänkäynti Mariankadun puolelta;Kirkkokatu 7;15110;Lahti;;60.985115;25.656445;;;;
+Lahden Versot ry;9999146;Kämppä;Vuorikatu 7 A 5;;Kuhmoinen;;60.9818605;25.6450839;;;;
+Lahden Versot ry;9999146;Versonpesä, Vapaaseurakunta;Humpulankatu 15;15100;Lahti;;60.981809;25.647677;Sari Talonen;;;
+Lahden Versot ry;9999292;Versonpesä, Vapaaseurakunta;Humpulankatu 15;15100;Lahti;;60.981809;25.647677;Sari Talonen;;;
+Lammin Evonkävijät ry;9999157;Turvantalo;Mommilantie 7;16900;Lammi;;61.080865;25.017765;;;;
+Lammin Evonkävijät ry;9999427;Turvantalo;Mommilantie 7;16900;Lammi;;61.080865;25.017765;;;;
+Launeen Lähdesiskot ry;9999147;Launeen kirkko, Kolo;Tapparakatu 22;15700;Lahti;;60.968817;25.643764;Tiia Kuokkanen;;;
+Launeen Lähdesiskot ry;9999471;Launeen kirkko, Kolo;Tapparakatu 22;15700;Lahti;;60.968817;25.643764;Tiia Kuokkanen;;;
+Lentävän Samoojat ry;9999651;Lentävän samoojat;Männistönkuja 2;33410;Tampere;;61.527378;23.703111;;;;
+Liekkitytöt ry;9999621;Poltinahon seurakuntatalo;Matti Alangon katu 31 F;13130;Hämeenlinna;;60.991739;24.440111;;;http://www.liekkitytot.fi/mukaan_toimintaan;Kulku F-ovesta, leikkipuiston vierestä. Kellarikerroksesta löytyy kaksi koloamme.
+Liekkitytöt ry;9999652;Poltinahon seurakuntatalo;Matti Alangon katu 31 F;13130;Hämeenlinna;;60.991739;24.440111;;;http://www.liekkitytot.fi/mukaan_toimintaan;Kulku F-ovesta, leikkipuiston vierestä. Kellarikerroksesta löytyy kaksi koloamme.
+Loimaan Nuotioloimut;9999298;Kolo;Juvantie 11;32200;Loimaa;;60.857478;23.02426;;;;
+Loimaan Saviset ry;9999299;;Opintie;32210;Loimaa;;60.869821;22.979324;;;;
+Lähteen Vartijat ry;9999148;Launeen kirkko, Kolo;Tapparakatu 22;15700;Lahti;;60.968898;25.643205;Mikko Launiainen;;;
+Lähteen Vartijat ry;9999650;Launeen kirkko, Kolo;Tapparakatu 22;15700;Lahti;;60.968898;25.643205;Mikko Launiainen;;;
+Marjatat ja Mikon Pojat ry;9999310;Partiokolo;Turuntie 8;31400;Somero;;60.633555;23.508848;;;;Kivinavetta
+Mellilän Menninkäiset ry;9998909;Menninkäisten kolo;Asemantie 14;32300;Mellilä;;60.781369;22.926072;;;;
+Messukylän Metsäpojat ry;9999655;Takahuhdin Seurakuntatalo;Tanhuankatu 40;33560;Tampere;;61.4914738;23.8612048;;;;Takahuhdin vanha Pappila. Toimisto ja varastotilat. Kaikista ikäkausista kokoontuu ryhmiä.
+Messukylän Metsäpojat ry;9999655;Messukylän seurakuntakoti;Messukylänkatu 36;33700;Tampere;;61.485729;23.83891;;;;
+Messukylän Metsäpojat ry;9999656;Messukylän seurakuntakoti;Messukylänkatu 36;33700;Tampere;;61.485729;23.83891;;;;
+Messukylän Metsätytöt ry;9999656;Pappila;Tanhuankatu 40;33560;Tampere;;61.4914738;23.8612048;;;;
+Messukylän Metsätytöt ry;9999656;Toimisto;Tanhuankatu 40;33560;Tampere;;61.491359;23.862825;;;;
+Messukylän Metsätytöt ry;9999656;Toimisto;Tanhuankatu 40;33560;Tampere;;61.491359;23.862825;;;;
+Messukylän Metsätytöt ry;9999656;Messukylän srk-talo;Messukylänkatu 36;33700;Tampere;;61.486097;23.839212;;;;
+Messukylän Metsätytöt ry;9999921;Messukylän srk-talo;Messukylänkatu 36;33700;Tampere;;61.486097;23.839212;;;;
+Myllykylän Harjuvuokot ry;9999150;Sinilähteen seurakuntatalo;Karjalankatu 24;18100;HEINOLA;;61.181732;25.991399;;;;
+Myllykylän Harjuvuokot ry;9999659;Sinilähteen seurakuntatalo;Karjalankatu 24;18100;HEINOLA;;61.181732;25.991399;;;;
+Mäntänvuoren Partiolaiset ry;9999659;Mäntän Seurakuntatalo;Kirkkokatu 6;35800;Mänttä;;62.027655;24.621583;Kopra Johanna;;;
+Mäntänvuoren Partiolaiset ry;9999152;Mäntän Seurakuntatalo;Kirkkokatu 6;35800;Mänttä;;62.027655;24.621583;Kopra Johanna;;;
+Nastapartio ry;9999152;Suppala;Suppalantie 6;15540;VILLÄHDE;;60.9538767;25.8077252;;;;
+Nastapartio ry;9999152;Aliranta;Immiläntie 2;15560;NASTOLA;;60.9483593;25.9330606;;;;
+Nastapartio ry;9999152;Luomaniemi;Luomaniementie 1;15560;NASTOLA;;60.9521682;25.9171352;;;;
+Nastapartio ry;9999152;Metsäniemi;Tervelepäntie;15560;NASTOLA;;60.9549545;25.937502499999937;;;;
+Nastapartio ry;9999152;Partiotoimisto;Immiläntie 2;15560;NASTOLA;;60.948131;25.93468;Henna Pohja;;;
+Nastapartio ry;9999590;Partiotoimisto;Immiläntie 2;15560;NASTOLA;;60.948131;25.93468;Henna Pohja;;;
+Niihaman Saukot ry;9999660;Vehmaisten srk-talo;Kauppilaisenkatu 26;33730;TAMPERE;;61.477207;23.917794;;;;
+Niihaman Saukot ry;9999859;Vehmaisten srk-talo;Kauppilaisenkatu 26;33730;TAMPERE;;61.477207;23.917794;;;;
+Nokian Eräveikot ry;9999661;Koskenmäki-talo;Orelinkatu 8;37120;Nokia;;61.466383;23.498092;Johanna Hyytiäinen;;;Koskenmäen nuorisotila, ent. kirjasto
+Nokian Eräveikot ry;9999661;Koskenmäki-talo;Orelinkatu 8;37120;Nokia;;61.466383;23.498092;Johanna Hyytiäinen;;;Koskenmäen nuorisotila, ent. kirjasto
+Nokian Eräveikot ry;9999661;Vahalahden koulu;Sarkolantie 476;37180;Sarkola;;61.418452;23.256008;Riikka Salo;;;
+Nokian Eräveikot ry;9999662;Vahalahden koulu;Sarkolantie 476;37180;Sarkola;;61.418452;23.256008;Riikka Salo;;;
+Nokian Partiotytöt ry;9999662;Harjuniityn koulun alakerta;Lautamiehenkatu 1;37140;Nokia;;61.471599;23.452186;;;https://nopalaiset.wordpress.com/;
+Nokian Partiotytöt ry;9999663;Harjuniityn koulun alakerta;Lautamiehenkatu 1;37140;Nokia;;61.471599;23.452186;;;https://nopalaiset.wordpress.com/;
+Nummen Eränkävijät ry;9999663;Anttilankadun kerhotila;Anttilankatu 4;13210;Hämeenlinna;;61.0055259;24.4964687;;;;
+Nummen Eränkävijät ry;9999663;Rantatien kerhotila;Rantatie 13 O;13300;Hämeenlinna;;60.969981;24.5488878;;;;
+Nummen Eränkävijät ry;9999663;Rantatien kerhotila;Rantatie 13 O;13300;Hämeenlinna;;60.969981;24.5488878;;;;
+Nummen Eränkävijät ry;9999663;Lintukoto;Eeronkuja 5;13500;Hämeenlinna;;60.983596;24.418686;;;;
+Nummen Eränkävijät ry;9999663;Loimalahden kerhotila;Majalahdentie 1;13500;Hämeenlinna;;60.9702895;24.3814017;;;;
+Nummen Eränkävijät ry;9999663;Loimalahden kolo;Tervaniementie;13500;Hämeenlinna;;60.967279;24.382687;;;;
+Nummen Eränkävijät ry;9999663;Lintukoto;Eeronkuja 5;13500;Hämeenlinna;;60.983596;24.418686;;;;
+Nummen Eränkävijät ry;9999248;Loimalahden kolo;Tervaniementie;13500;Hämeenlinna;;60.967279;24.382687;;;;
+Näsijärven Kipinät ry;10715230;Tammelan koulu;Ilmarinkatu 17;33500;Tampere;;61.5009151;23.7806281;;;;
+Näsijärven Kipinät ry;9999664;Tammelan koulu;Ilmarinkatu 17;33500;Tampere;;61.5009151;23.7806281;;;;
+Näsin Tytöt ry;9999664;Kyttälä;Kyttälänkatu 1 F;33100;Tampere;;61.499328;23.767449;;;;Sisäänkäynti Pellavatehtaankadun puoleisesta porttikongista, kokoontumistilat puutalon alakerrassa.
+Näsin Tytöt ry;10000045;Kyttälä;Kyttälänkatu 1 F;33100;Tampere;;61.499328;23.767449;;;;Sisäänkäynti Pellavatehtaankadun puoleisesta porttikongista, kokoontumistilat puutalon alakerrassa.
+Orimattilan Samoilijat ry;9999154;Seurakuntakoti;Kirkkopuisto 1;16300;Orimattila;;60.809526;25.735055;Jykä (Jyri Ansa);;;
+Orimattilan Samoilijat ry;9999154;Seurakuntakoti;Kirkkopuisto 1;16300;Orimattila;;60.809526;25.735055;Jykä (Jyri Ansa);;;
+Orimattilan Samoilijat ry;9999154;Nuorela;Keiturintie 56;16510;Luhtikylä;;60.857938;25.483292;Hasan Nenonen;;;
+Orimattilan Samoilijat ry;9999666;Nuorela;Keiturintie 56;16510;Luhtikylä;;60.857938;25.483292;Hasan Nenonen;;;
+Oriveden Eräsudet ry;9999665;Seurakuntatalo;Latokartanontie 5;35300;Orivesi;;61.67583;24.359476;Mikael Latva;;;
+Oriveden Eräsudet ry;9999667;Seurakuntatalo;Latokartanontie 5;35300;Orivesi;;61.67583;24.359476;Mikael Latva;;;
+Otsolan Pojat ja Tytöt;9999194;Vilppulan Seurakuntakeskus;Suomelantie 1;35700;Mänttä-Vilppula;;62.016904;24.511269;Hanne Ojala;;;
+Padaspartio ry;9999153;Nuorisotoimisto, Seurakuntatalo;Uimalantie 2;17500;Padasjoki;;61.3545946;25.2736537;;;;
+Padaspartio ry;9999153;Partiokämppä (retket);Suntelanmetsätie 220;17500;Padasjoki;;61.3020671;25.2606582;Kämppäisäntä;;;
+Padaspartio ry;9999153;Nuorisotoimisto, Seurakuntatalo;Uimalantie 2;17500;Padasjoki;;61.3545946;25.2736537;;;;
+Parolan Eräveikot ry;9999668;Parolan nuorisotalo Taidetila;Parolantie 53;13720;Parola;;61.052644;24.366057;Turkka Salo;;;
+Parolan Eräveikot ry;9999915;Parolan nuorisotalo Taidetila;Parolantie 53;13720;Parola;;61.052644;24.366057;Turkka Salo;;;
+Pertun Tähkäpartio ry;9999521;Nuorisotalo;Juhlakuja 1;19430;Pertunmaa;;61.51539;26.484534;;;;
+Pirjetan Partio ry;9999156;Kirkonkylän kolo, kirkkoherranviraston alakerta;Pilpalantie 3;12700;Loppi;;60.716321;24.440142;Leena Vesto;408312427;www.pirjetanpartio.fi;
+Pirjetan Partio ry;9999156;Kuusela;Opintie 1;12700;Loppi;;60.716593;24.446573;;;;
+Pirjetan Partio ry;9999156;Kirkonkylän kolo, kirkkoherranviraston alakerta;Pilpalantie 3;12700;Loppi;;60.716321;24.440142;Leena Vesto;408312427;www.pirjetanpartio.fi;
+Pirjetan Partio ry;9999156;Kuusela;Opintie 1;12700;Loppi;;60.716593;24.446573;;;;
+Pirjetan Partio ry;9999156;Liitontalo;Rautakoskentie 2078;12750;Pilpala;;60.623608;24.273362;Arja Niemi;505 831 099;;
+Pirjetan Partio ry;9999669;Liitontalo;Rautakoskentie 2078;12750;Pilpala;;60.623608;24.273362;Arja Niemi;505 831 099;;
+Pirkan Pojat ry;9999669;Pirkan Poikien Kolo;Lautamiehenkatu 1;37140;Nokia;;61.471473;23.451339;;;https://www.facebook.com/Partiolippukuntapirkanpojat/;Partiolippukunta Pirkan Poikien kolo
+Pirkan Pojat ry;9999670;Pirkan Poikien Kolo;Lautamiehenkatu 1;37140;Nokia;;61.471473;23.451339;;;https://www.facebook.com/Partiolippukuntapirkanpojat/;Partiolippukunta Pirkan Poikien kolo
+Pirkkalan Pirkot ry;9999670;Seuris;Kouluportinkuja 1;33950;Pirkkala;;61.4698017;23.6816729;;;;
+Pirkkalan Pirkot ry;9999670;Kirkko;Perkiöntie 40;33960;Pirkkala;;61.464021;23.635859;;;;
+Pirkkalan Pirkot ry;9999670;Kurikka;Aittokorventie 2;33960;Pirkkala;;61.4593361;23.6597887;;;;
+Pirkkalan Pirkot ry;9999670;Pere;Isomäentie 3;33960;Pirkkala;;61.4716647;23.7089667;;;;
+Pirkkalan Pirkot ry;9999670;Uittamo;Uittamontie 76;33960;Pirkkala;;61.4597597;23.5487935;;;;
+Pirkkalan Pirkot ry;9999670;Kirkko;Perkiöntie 40;33960;Pirkkala;;61.464021;23.635859;;;;
+Pirkkalan Pirkot ry;9999670;Kurikka;Aittokorventie 2;33960;Pirkkala;;61.4593361;23.6597887;;;;
+Pirkkalan Pirkot ry;9999670;Pere;Isomäentie 3;33960;Pirkkala;;61.4716647;23.7089667;;;;
+Pirkkalan Pirkot ry;9999671;Uittamo;Uittamontie 76;33960;Pirkkala;;61.4597597;23.5487935;;;;
+Pirkkalan Sotkapojat ry;9999671;Seuris;Kouluportinkuja 1;33950;Pirkkala;;61.469802;23.683862;;;;
+Pirkkalan Sotkapojat ry;9999671;Seuris;Kouluportinkuja 1;33950;Pirkkala;;61.469802;23.683862;;;;
+Pirkkalan Sotkapojat ry;9999671;Kirkko;Perkiöntie 40;33960;Pirkkala;;61.462766;23.63721;;;;
+Pirkkalan Sotkapojat ry;9999898;Kirkko;Perkiöntie 40;33960;Pirkkala;;61.462766;23.63721;;;;
+Punkalaitumen Metsänkävijät;9999672;Karhunpesä;Kostilantie 67;31900;Punkalaidun;;61.111695;23.093051;Sanna Lähdeniemi;408048815;;Kirkkoherranviraston pihapiirissä
+Punkalaitumen Metsänkävijät;9999673;Karhunpesä;Kostilantie 67;31900;Punkalaidun;;61.111695;23.093051;Sanna Lähdeniemi;408048815;;Kirkkoherranviraston pihapiirissä
+Puuha-Marit ry;9999158;Oitin kolo;Vaahteratie 6;12100;Oitti;;60.789015;25.024161;;;;
+Puuha-Marit ry;9999158;Oitin kolo;Vaahteratie 6;12100;Oitti;;60.789015;25.024161;;;;
+Puuha-Marit ry;9999158;Hikiän kolo;Hikiäntie 280;12240;Hikiä;;60.757187;24.919748;;;;
+Puuha-Marit ry;9999326;Hikiän kolo;Hikiäntie 280;12240;Hikiä;;60.757187;24.919748;;;;
+Raaseporin Rautamyrtit ry;9999440;;Karjaa;;Karjaa;;60.073065;23.662767;Isto Vilkman p. 045 127 3019;;;
+Riihimäen Eräpojat ry;9999160;;Kalevankatu 8;11120;Riihimäki;;60.738703;24.764561;;;;Yhteinen Riihimäen Erätyttöjen kanssa
+Riihimäen Eräpojat ry;9999161;;Kalevankatu 8;11120;Riihimäki;;60.738703;24.764561;;;;Yhteinen Riihimäen Erätyttöjen kanssa
+Riihimäen Erätytöt ry;9999161;Riihimäen Erätytöt ry, Partiotalo;Kalevankatu 8;11100;RIIHIMÄKI;;60.738738;24.765097;;;;
+Riihimäen Erätytöt ry;9999162;Riihimäen Erätytöt ry, Partiotalo;Kalevankatu 8;11100;RIIHIMÄKI;;60.738738;24.765097;;;;
+Riihipääskyt ry;9999162;Kolo;Kirkkopolku 2a;11100;Riihimäki;;60.736897;24.773014;Eveliina Koskela;;;Kolo on Kirkkopuiston seurakuntakodin pommisuojassa.
+Riihipääskyt ry;9999675;Kolo;Kirkkopolku 2a;11100;Riihimäki;;60.736897;24.773014;Eveliina Koskela;;;Kolo on Kirkkopuiston seurakuntakodin pommisuojassa.
+Roineen Tytöt ry;9999675;Ruutanan kolo;Seurakunnantie 6;36110;Ruutana;;61.527271;24.020743;Reetta Kaipia;;www.roineentytot.fi;
+Roineen Tytöt ry;9999675;Ruutanan kolo;Seurakunnantie 6;36110;Ruutana;;61.527271;24.020743;Reetta Kaipia;;www.roineentytot.fi;
+Roineen Tytöt ry;9999675;Kangasalan kolo;Tapulintie 2;36200;Kangasala;;61.464158;24.069194;Reetta Kaipia;;www.roineentytot.fi;
+Roineen Tytöt ry;9999675;Kangasalan kolo;Tapulintie 2;36200;Kangasala;;61.464158;24.069194;Reetta Kaipia;;www.roineentytot.fi;
+Roineen Tytöt ry;9999675;Suoraman kolo;Suoramantie 7;36220;Kangasala;;61.4722456;24.0092355;;;www.roineentytot.fi;
+Roineen Tytöt ry;9999163;Suoraman kolo;Suoramantie 7;36220;Kangasala;;61.4722456;24.0092355;;;www.roineentytot.fi;
+Ryttylän Eräveikot ry;9999163;Partiomaja;Kolmilammintie;12310;Ryttylä;;60.824193;24.777116;;;;
+Ryttylän Eräveikot ry;9999163;Ryttylän srk-talo;Kirkkotie 7;12310;Ryttylä;;60.818445;24.75522;;;;Oma Partiomaja Puujoen rannalla Ryttylässä.
+Ryttylän Eräveikot ry;9999163;Partiomaja;Kolmilammintie;12310;Ryttylä;;60.824193;24.777116;;;;
+Ryttylän Eräveikot ry;9999443;Ryttylän srk-talo;Kirkkotie 7;12310;Ryttylä;;60.818445;24.75522;;;;Oma Partiomaja Puujoen rannalla Ryttylässä.
+Sahalahden Sinisudet ry;9999676;Hukkapirtti;Holmansaarentie 60;36420;Sahalahti;;61.457843;24.345589;Pasanen Margit;;;
+Sahalahden Sinisudet ry;9999444;Hukkapirtti;Holmansaarentie 60;36420;Sahalahti;;61.457843;24.345589;Pasanen Margit;;;
+Santamäen Palokärjet ry;9999164;Launosten koulu;Kartanontie 8;12540;Launonen;;60.749793;24.580246;;;;
+Santamäen Palokärjet ry;9999479;Launosten koulu;Kartanontie 8;12540;Launonen;;60.749793;24.580246;;;;
+Sata-Hämeen Vasamat ry;9999677;Linnavuoren seurakuntatalo;Pirkkakoivuntie 4;37240;Linnavuori;;61.493217;23.352346;Jarkko Mäkiranta;407296769;http://sava-partio.fi/;
+Sata-Hämeen Vasamat ry;9999722;Linnavuoren seurakuntatalo;Pirkkakoivuntie 4;37240;Linnavuori;;61.493217;23.352346;Jarkko Mäkiranta;407296769;http://sava-partio.fi/;
+Saviseudun Peurat ry;9999446;;Varsanojantie 8;32100;Ypäjä;;60.8041945;23.2844665;;;;
+Sinisissit ry;9999165;Kariston koulu;Karistonkatu 213;15160;LAHTI;;60.977133;25.752545;Pete & Veikko;;;Lisäksi toimintaa myös Ahtialan seurakuntakeskuksella
+Sinisissit ry;9999165;Kariston koulu;Karistonkatu 213;15160;LAHTI;;60.977133;25.752545;Pete & Veikko;;;Lisäksi toimintaa myös Ahtialan seurakuntakeskuksella
+Sinisissit ry;9999165;Joutjärven kirkko;Ilmarisentie 1;15170;Lahti;;60.984127;25.702145;Tuukka, Eikku;;;Lisäksi toimintaa myös Ahtialan seurakuntakeskuksella
+Sinisissit ry;9999165;Joutjärven kirkko;Ilmarisentie 1;15170;Lahti;;60.984127;25.702145;Tuukka, Eikku;;;Lisäksi toimintaa myös Ahtialan seurakuntakeskuksella
+Sinisissit ry;9999165;Ahtialan seurakuntakeskus;Alasenkatu 4;15300;Lahti;;60.999531;25.756861;Moona;;;Lisäksi toimintaa myös Ahtialan seurakuntakeskuksella
+Sinisissit ry;9999559;Ahtialan seurakuntakeskus;Alasenkatu 4;15300;Lahti;;60.999531;25.756861;Moona;;;Lisäksi toimintaa myös Ahtialan seurakuntakeskuksella
+Stoolin Partiolaiset ry;9999679;Ruoveden seurakuntatalo;Honkalantie 8;34600;Ruovesi;;61.983128;24.068005;;;;
+Stoolin Partiolaiset ry;9999680;Ruoveden seurakuntatalo;Honkalantie 8;34600;Ruovesi;;61.983128;24.068005;;;;
+Suodenniemen Suonkiertäjät ry;9999680;Korsu;Vehkakoskentie 180;38510;Sastamala;;61.5487496;22.6949683;;;;
+Suodenniemen Suonkiertäjät ry;9999680;Kolo;Kirkkotie 12;38510;Suodenniemi;;61.558694;22.77936;;;;Suodenniemen Seurakuntatalon alakerta
+Suodenniemen Suonkiertäjät ry;9999483;Kolo;Kirkkotie 12;38510;Suodenniemi;;61.558694;22.77936;;;;Suodenniemen Seurakuntatalon alakerta
+Sääksmäen Nuotiopojat ry;10000060;Sääksmäen Kirkontupa;Kelhinpolku 20;37700;Sääksmäki;;61.199441;24.068482;Tommi Valkeapää;;;
+Sääksmäen Nuotiopojat ry;10722725;Sääksmäen Kirkontupa;Kelhinpolku 20;37700;Sääksmäki;;61.199441;24.068482;Tommi Valkeapää;;;
+Tainionvirran Taimenet ry;10722725;Kolo, Hartolan seurakuntatalo;Kirkkotie 2;19600;Hartola;;61.497055;25.671022;;;;
+Tainionvirran Taimenet ry;10722725;Kolo, Hartolan seurakuntatalo;Kirkkotie 2;19600;Hartola;;61.497055;25.671022;;;;
+Tainionvirran Taimenet ry;10722725;Kolo, Sysmän Järjestötalo;Väihkyläntie 9;19700;Sysmä;;61.5064051;25.6797106;;;;
+Tammelan Metsänkävijät ry;9999682;Kolo;Tammelantie 33;31300;Tammela;;60.808645;23.764308;Manu Alarto;;;
+Tammelan Metsänkävijät ry;9999575;Kolo;Tammelantie 33;31300;Tammela;;60.808645;23.764308;Manu Alarto;;;
+Tammerfors Spejare;9999683;Tammerfors Spejare rf.;Koulukatu 14;33200;Tammerfors;;61.4941737;23.7453805;Henrik Lampinen;;;
+Tammero ry;9999683;Linnainmaan seurakuntakoti;Korpikodinkatu 2;33580;Tampere;;61.495008;23.890932;;;;
+Tammero ry;9999687;Linnainmaan seurakuntakoti;Korpikodinkatu 2;33580;Tampere;;61.495008;23.890932;;;;
+Tampereen Eräpojat ry;9999687;Pyynikin Pappila;Kisakentänkatu 18;33230;Tampere;;61.495778;23.74065;;;www.taer.fi;Eräpoikien kokoustilat sijaitsevat kellarikerroksessa. Käynti sisäpihan kautta.
+Tampereen Eräpojat ry;9999688;Pyynikin Pappila;Kisakentänkatu 18;33230;Tampere;;61.495778;23.74065;;;www.taer.fi;Eräpoikien kokoustilat sijaitsevat kellarikerroksessa. Käynti sisäpihan kautta.
+Tampereen Kotkat;9999688;Hämeenpuisto 14;Hämeenpuisto 14 F;33210;Tampere;;61.499904;23.749887;;;;
+Tampereen Kotkat;9999689;Hämeenpuisto 14;Hämeenpuisto 14 F;33210;Tampere;;61.499904;23.749887;;;;
+Tampereen Lokit ry;9999689;Pamaus;Hämeenpuisto 14 F;33210;Tampere;;61.499834;23.750778;;;;
+Tampereen Lokit ry;9999690;Pamaus;Hämeenpuisto 14 F;33210;Tampere;;61.499834;23.750778;;;;
+Tampereen Versot ry;9999692;Tampereen Versot;Puutarhakatu 17;33210;Tampere;;61.498977;23.755502;;;;
+Tampereen Versot ry;9999693;Tampereen Versot;Puutarhakatu 17;33210;Tampere;;61.498977;23.755502;;;;
+Teiska-Partio ry;9999695;Kämmenniemen kerhohuone;Kämmenniemenkatu 46;34240;Kämmenniemi;;61.630172;23.837929;;;;
+Teiska-Partio ry;9999695;Kotilinnasäätiön kerhohuone;Ullakonvainio 5;34240;Kämmenniemi;;61.6270134;23.8354519;;;;
+Teiska-Partio ry;9999695;Kämmenniemen kerhohuone;Kämmenniemenkatu 46;34240;Kämmenniemi;;61.630172;23.837929;;;;
+Teiska-Partio ry;9999209;Teiskon seurakuntakoti;Teiskon kirkkotie 113;34260;Terälahti;;61.6735283;23.8461083;;;;
+Teljän Partio ry;9999209;Kokemäki kierrätyskeskuksen yläkerta;;32800;Kokemäki;;61.255556;22.348611;;;;
+Teljän Partio ry;9999696;Kauvatsa, paloasema;;32920;Kauvatsa;;61.3375166;22.5031744;Satu Vihervaara;505450020;https://www.facebook.com/groups/partiokauvatsa/;Kokoontumiset: sudarit joka toinen torstai 18-19, seikkailijat to 18-19.30 ja tarpojat to 18-19.30
+Tervakosken Tervakset ry;9999696;Tervakosken seurakuntakeskus;Kirkkotie 1;12400;Tervakoski;;60.814939;24.625333;;;;
+Tervakosken Tervakset ry;10000024;Tervakosken seurakuntakeskus;Kirkkotie 1;12400;Tervakoski;;60.814939;24.625333;;;;
+Tervaksentekijät ry;10000024;Hervannan kolo;Elementinpolku 13;33720;Tampere;;61.443134;23.852390;;;;
+Tervaksentekijät ry;10000024;Hervannan kolo;Elementinpolku 13;33720;Tampere;;61.443134;23.852390;;;;
+Tervaksentekijät ry;10000024;Hallilan seurakuntakoti;Männikönkatu 2;33820;Tampere;;61.466219;23.837595;;;;
+Tervaksentekijät ry;10000024;Hallilan seurakuntakoti;Männikönkatu 2;33820;Tampere;;61.466219;23.837595;;;;
+Tervaksentekijät ry;10000024;Vuoreksen seurakuntakoti;Vuoreksen Puistokatu 87;33870;Tampere;;61.432291;23.809540;;;;
+Tervaksentekijät ry;9999395;Vuoreksen seurakuntakoti;Vuoreksen Puistokatu 87;33870;Tampere;;61.432291;23.809540;;;;
+Tesoman Sinisiskot ry;9999697;Tesoman kirkko;Tesomankuja 11;33310;TAMPERE;;61.505314;23.624665;Aino Saranko;;;
+Tesoman Sinisiskot ry;10634199;Tesoman kirkko;Tesomankuja 11;33310;TAMPERE;;61.505314;23.624665;Aino Saranko;;;
+Toijalan Eräveikot ry;9999698;Akaan Seurakuntatalo - Manala;Sontulantie 1;37800;Akaa;;61.1654411;23.8654185;;;;Katakombi, Akaan seurakuntatalon kellarissa
+Toijalan Eräveikot ry;9999698;Akaan Seurakuntatalo - Manala;Sontulantie 1;37800;Akaa;;61.1654411;23.8654185;;;;Katakombi, Akaan seurakuntatalon kellarissa
+Torisevan Tarpojat ry;9999699;Klinikka;Sairaalatie 1;34800;VIRRAT;;62.239611;23.760923;;;;
+Torisevan Tarpojat ry;9999751;Klinikka;Sairaalatie 1;34800;VIRRAT;;62.239611;23.760923;;;;
+Tuuloksen Tulikourat ry;9999700;Pappilan pihatupa;Pappilantie 17;14820;Tuulos;;61.119197;24.828224;Hannu Mursunen;;;
+Tuuloksen Tulikourat ry;9999260;Pappilan pihatupa;Pappilantie 17;14820;Tuulos;;61.119197;24.828224;Hannu Mursunen;;;
+Tyrvään Metsänpojat ry;9999701;Pärvi;Ritajärvenbtie 461;33210;Sastamala;;61.4436378;22.9070702;Juha Heinokorpi;;;
+Tyrvään Metsänpojat ry;9999701;Seukku;Marttilankatu 37;38200;Vammala;;61.339633;22.913618;Pekka Uurto;;;Ryhmät kokonntuvat arkena lähes joka päivä 16-20. Tarkemmin tiedon löydät www.eratoveri.fi sivuilta.
+Tyrvään Metsänpojat ry;9999702;Seukku;Marttilankatu 37;38200;Vammala;;61.339633;22.913618;Pekka Uurto;;;Ryhmät kokonntuvat arkena lähes joka päivä 16-20. Tarkemmin tiedon löydät www.eratoveri.fi sivuilta.
+Urjan Varstat ry;9999702;Huhmari;Huhmarinmäentie 38;31700;Urjala as.;;61.062986;23.646171;;;;
+Urjan Varstat ry;9999418;Huhmari;Huhmarinmäentie 38;31700;Urjala as.;;61.062986;23.646171;;;;
+Valkeakosken Korvenkävijät ry;9999704;Valkeakosken Korvenkävijät;Valtakatu 17;37600;Valkeakoski;;61.267486;24.027867;;;;Ei postia
+Valkeakosken Korvenkävijät ry;9999703;Valkeakosken Korvenkävijät;Valtakatu 17;37600;Valkeakoski;;61.267486;24.027867;;;;Ei postia
+Vammalan Nuotiosiskot ry;9999706;;;;;;61.3401297;22.9124295;;;;
+Vammalan Nuotiosiskot ry;9999706;Seukku;Marttilankatu 35;38200;Sastamala;;61.340574;22.914891;;;;
+Vammalan Nuotiosiskot ry;9999213;Seukku;Marttilankatu 35;38200;Sastamala;;61.340574;22.914891;;;;
+Vampulan Varpuspartio ry;9999708;Kolo;Sallilantie 53;32610;Vampula;;61.03153;22.681223;;;;
+Wanajan Ilves ry;10754837;Vanajan srk-talo;Kirkkoraitti 5;13110;Hämeenlinna;;60.978511;24.505719;;;www.wanajanilves.fi;
+Wanajan Ilves ry;9999910;Vanajan srk-talo;Kirkkoraitti 5;13110;Hämeenlinna;;60.978511;24.505719;;;www.wanajanilves.fi;
+Vesilahden Valkohännät ry;9999710;;SRK-talon kerhohuone, Oltavankatu 1;;;;61.3096349;23.6171748;;;;
+Vesilahden Valkohännät ry;9999710;; Narvan kyläkirkko, Ketolantie 4;;;;61.2963046;23.5034818;;;;
+Vesilahden Valkohännät ry;9999710;;Onkemäen kyläkoulu, Onkemäentie 15;;;;61.2552978;23.5782941;;;;
+Vesilahden Valkohännät ry;9999710;Onkemäen koulu;Onkemäentie 15;37420;Vesilahti;;61.255461;23.580666;;;;
+Vesilahden Valkohännät ry;9999710;Onkemäen koulu;Onkemäentie 15;37420;Vesilahti;;61.255461;23.580666;;;;
+Vesilahden Valkohännät ry;9999710;Kirkonkylän kolo;Oltavantie 2;37470;Vesilahti;;61.309914;23.620925;;;;Kirkonkylän kolo sijaitsee seurakuntatalon yhteydessä, sen takana olevassa kerhohuoneistossa.
+Vesilahden Valkohännät ry;9999710;Narvan kyläkirkko;Ketolantie 4;37470;Vesilahti;;61.296381;23.505985;;;;
+Vesilahden Valkohännät ry;9999710;Kirkonkylän kolo;Oltavantie 2;37470;Vesilahti;;61.309914;23.620925;;;;Kirkonkylän kolo sijaitsee seurakuntatalon yhteydessä, sen takana olevassa kerhohuoneistossa.
+Vesilahden Valkohännät ry;9999707;Narvan kyläkirkko;Ketolantie 4;37470;Vesilahti;;61.296381;23.505985;;;;
+Viialan Metsänkävijät ry;9999707;;;;;;61.2129813;23.7608663;;;;
+Viialan Metsänkävijät ry;9999707;Vanha Pappila;Nordintie;37830;Akaa;;61.212779;23.763815;Tuija Haavisto;;;
+Viialan Metsänkävijät ry;9999711;Vanha Pappila;Nordintie;37830;Akaa;;61.212779;23.763815;Tuija Haavisto;;;
+Viinikan Siniset ry;9999711;Viinikan kirkko;Kaartotie 1;33100;Tampere;;61.486558;23.783236;;;;
+Viinikan Siniset ry;9999712;Viinikan kirkko;Kaartotie 1;33100;Tampere;;61.486558;23.783236;;;;
+Viinikan Sinitytöt ry;9999712;Viinikan kirkko;Kaartotie 1;33100;Tampere;;61.486558;23.785400;;;http://www.visity.fi;
+Viinikan Sinitytöt ry;9999713;Viinikan kirkko;Kaartotie 1;33100;Tampere;;61.486558;23.785400;;;http://www.visity.fi;
+Ylöjärven Otava ry;9999714;Vuorentaustan seurakuntakoti;Mastontie 27;33430;Vuorentausta;;61.5307859;23.5955873;;;;
+Ylöjärven Otava ry;9999714;Siivikkalan seurakuntatalo;Tervolantie 4;33450;Siivikkala;;61.5501185;23.6648176;;;;
+Ylöjärven Otava ry;9999714;Seurakuntakeskus, Otavan kolo;Kirkkotanhuantie 1;33470;Ylöjärvi;;61.558005;23.595142;;;;
+Ylöjärven Otava ry;9999714;Vanha seurakuntatalo;Loilantie 3-5;33470;Ylöjärvi;;61.5558406;23.5957635;;;;
+Ylöjärven Otava ry;9999714;Seurakuntakeskus, Otavan kolo;Kirkkotanhuantie 1;33470;Ylöjärvi;;61.558005;23.595142;;;;
+Ylöjärven Otava ry;9999714;Asuntilan toimitila;Suolaniityntie 4;33480;Ylöjärvi;;61.5749449;23.6139462;;;;
+Ylöjärven Otava ry;9999714;Haavi;Lähdevainiontie 21;33480;Ylöjärvi;;61.5670078;23.5887357;;;;
+Ylöjärven Otava ry;9999714;Asuntilan toimitila;Suolaniityntie 4;33480;Ylöjärvi;;61.5749449;23.6139462;;;;
+Ylöjärven Otava ry;9999715;Metsäkylän seurakuntatalo;Taimitie 1;39160;Ylöjärvi;;61.5713575;23.5061219;;;;
+Ylöjärven Viittaveljet;9999715;Vuorentaustan seurakuntakoti;Mastontie 27;33430;Vuorentausta;;61.5307859;23.5955873;;;;
+Ylöjärven Viittaveljet;9999715;Salorinteen päiväkoti, Siivikkala;Jauhotie 10;33450;Siivikkala;;61.5515008;23.6531292;;;;
+Ylöjärven Viittaveljet;9999715;Seurakuntakeskus, Viittaveljien kolo;Kirkkotanhuantie 1;33470;Ylöjärvi;;61.558005;23.595142;;;;
+Ylöjärven Viittaveljet;9999715;Vanha seurakuntatalo;Loilantie 3-5;33470;YLÖJÄRVI;;61.5558406;23.5957635;;;;
+Ylöjärven Viittaveljet;9999715;Seurakuntakeskus, Otavan kolo;Kirkkotanhuantie 1;33470;YLÖJÄRVI;;61.5580313;23.5950554;;;;
+Ylöjärven Viittaveljet;9999715;Seurakuntakeskus, Viittaveljien kolo;Kirkkotanhuantie 1;33470;Ylöjärvi;;61.558005;23.595142;;;;
+Ylöjärven Viittaveljet;9999715;Metsäkylän yhtenäiskoulu;Metsäkyläntie 32;39160;Julkujärvi;;61.573536;23.506994;;;;

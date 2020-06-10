@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+/*Sets heatmap to top*/
+.leaflet-map-pane svg {
+    z-index: -202 !important;
+}

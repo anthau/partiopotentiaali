@@ -1,26 +1,34 @@
+/*
+ * Author Antto Hautamäki
+ */
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import './App.css'
+import MainComponent from './MainComponent'
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends React.Component {
+
+    constructor(props) {
+        super(props)
+        //Säteeksi voi asentaa välit 10-3000m
+        this.state = {
+            range: 3000
+        };
+    }
+
+    //Asettaa etäisyyden
+    set(e) {
+        this.setState({ range: e.target.value })
+    }
+
+    render() {
+
+        return (
+            <>
+                <MainComponent />
+            </>
+        );
+    }
 }
 
 export default App;
+
