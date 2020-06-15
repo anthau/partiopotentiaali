@@ -97,18 +97,11 @@ class MainComponent extends Component {
                     "useLocalExtrema": true,
                     latField: 'lat',
                     lngField: 'lon',
-                    valueField: 'count',
+                    valueField: 'pop',
                     gradient: { 0: "#000000", 0.1: "#370000", 0.2: "#570000", 0.3: "#770000", 0.4: "#ff0000", 0.6: "#ffc800", 0.8: "#ffff00", 1: "#FFFFFF" }
 
                 };
-
-
                 let heatmapLayer = new HeatmapOverlay(cfg);
-
-                const heat = L.layerGroup(heatmapLayer);
-           
-             
-
 
                 L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
                     zoom: 17,
@@ -133,22 +126,32 @@ class MainComponent extends Component {
                         });
 
                     const datalines = potData.split("\n");
-
+                    const heatMapData = [];
                     const addMarkerHeat = (line) => {
 
                         const lineItems = line.split(";");
                         const area = lineItems[0];
                         const totalPop = parseInt(lineItems[4]);
                         const scoutPer = parseFloat(lineItems[3]);
-       
+                        const latitude = parseFloat(lineItems[1].replace(",", "."));
+                        const longitude = parseFloat(lineItems[2].replace(",", "."));
+
+                        heatMapData.push(
+                            {
+                                lat: latitude,
+                                lon: longitude,
+                                pop: totalPop
+                            }
+                        );
                   
                         if (totalPop > 99 && scoutPer < t1.state.per) {
 
                             //scout potential sign                       
-                            const marker = L.marker([parseFloat(lineItems[1].replace(",", ".")), parseFloat(lineItems[2].replace(",", "."))]);
+                            const marker = L.marker([latitude, longitude]);
                             marker.bindPopup("Alue=" + area + " total=" + totalPop)
                             marker.addTo(mymap)
                         }
+
                     }
 
                     datalines.forEach(line => addMarkerHeat(line))
@@ -167,26 +170,26 @@ class MainComponent extends Component {
 
                     let testData = {
                         max: 8,                        
-                        data: [{ lat: 60.6408, lon: 24.7728, count: 3 }]
+                        data: heatMapData
 
                     };
 
                     heatmapLayer.setData(testData);
                     heatmapLayer.addTo(mymap)
-
-
-
                 }
 
                 else {
                     const addCircle = (line) => {
+
                         const lineItems = line.split(";")
+                        const troopName = lineItems[0];
+
                         L.circle([parseFloat(lineItems[7]), parseFloat(lineItems[8])], {
                             color: "blue",
                             fillColor: "blue",
-                            fillOpacity: 0.09,
+                            fillOpacity: 0.6,
                             radius: t1.state.radius
-                        }).bindPopup(lineItems[0]).addTo(mymap);
+                        }).bindPopup(troopName).addTo(mymap);
                     }
                     rows.forEach(line => addCircle(line))
                 }
@@ -246,10 +249,10 @@ class MainComponent extends Component {
                     <Popup style={{ position: "fixed", top: -10 }} trigger={<button>  Kartan asetukset</button>} position="right center">
                         <div >
 
-                            <p><label> <b>et&auml;isyys kolosta  {this.state.radius}</b></label><label><br />10</label><input type="range" onChange={this.detailRadius.bind(this)} id="quantity223" name="quantity2233" min="10" max="3000" defaultValue="1000" /><label>3000</label>
+                        <p><label> <b>et&auml;isyys kolosta  {this.state.radius}</b></label><label><br />10</label><input type="range" onChange={this.detailRadius.bind(this)} id="quantity223" name="quantity2233" min="10" max="3000" defaultValue={this.state.radius} /><label>3000</label>
                             </p>
 
-                            <p><label> <b>partioprosentti  {this.state.per}</b></label><label><br />1</label><input type="range" onChange={this.detailPer.bind(this)} id="quantity2213" name="quantity22313" defaultValue="6" min="3" max="30" /><label>16</label>
+                        <p><label> <b>partioprosentti  {this.state.per}</b></label><label><br />1</label><input type="range" onChange={this.detailPer.bind(this)} id="quantity2213" name="quantity22313" defaultValue={this.state.per} min="3" max="30" /><label>16</label>
                             </p>
                             <br />
                         <br />
