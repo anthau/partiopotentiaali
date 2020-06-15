@@ -15,13 +15,13 @@ L.Icon.Default.mergeOptions({
     iconUrl: require('leaflet/dist/images/marker-icon.png'),
     shadowUrl: require('leaflet/dist/images/marker-shadow.png')
 });
+
 let draw = true;
 let map = L.map('mapid');
 const HeatmapOverlay = require('leaflet-heatmap');
 
 class MainComponent extends Component {
     count = 0;
-   
     //reads the file
     handleChangeFile = (e: React.ChangeEvent<HTMLInputElement>) => {
         const fileEncoding = 'UTF-8';
@@ -55,13 +55,11 @@ class MainComponent extends Component {
             this.state.map.remove();
             this.drawMap(this,false);
         }
-        
         reader.readAsText(files[0], fileEncoding);
     }
 
     constructor(props) {
         super(props);
-       
             this.state = {
                 circles: [],
                 radius: 1000,
@@ -73,9 +71,7 @@ class MainComponent extends Component {
                 data: []
 
             };
-    
         this.drawMap(this);
-
     }
 
     drawMap(t1) {
@@ -88,7 +84,6 @@ class MainComponent extends Component {
                     .then((r) => r.text())
                     .then(text => {
                         return text;
-
                     })
 
 
@@ -110,7 +105,7 @@ class MainComponent extends Component {
 
                 let heatmapLayer = new HeatmapOverlay(cfg);
 
-                var heat = L.layerGroup(heatmapLayer);
+                const heat = L.layerGroup(heatmapLayer);
            
              
 
@@ -130,17 +125,30 @@ class MainComponent extends Component {
                 let rows = new1.split("\n");
      
                 //troopNames
-                if (t1.state.mode === '2')   {
+                if (t1.state.mode === '2') {
                     let potData = await fetch('testData11.txt')
                         .then((r) => r.text())
                         .then(text => {
                             return text;
                         });
-           
+
                     const datalines = potData.split("\n");
-                    const addMarkerHeat = (line) => {                     
-                        const lineItems = line.split(";")
-                        L.marker([parseFloat(lineItems[1].replace(",", ".")), parseFloat(lineItems[2].replace(",", "."))]) //.addTo(mymap)
+
+                    const addMarkerHeat = (line) => {
+
+                        const lineItems = line.split(";");
+                        const area = lineItems[0];
+                        const totalPop = parseInt(lineItems[4]);
+                        const scoutPer = parseFloat(lineItems[3]);
+       
+                  
+                        if (totalPop > 99 && scoutPer < t1.state.per) {
+
+                            //scout potential sign                       
+                            const marker = L.marker([parseFloat(lineItems[1].replace(",", ".")), parseFloat(lineItems[2].replace(",", "."))]);
+                            marker.bindPopup("Alue=" + area + " total=" + totalPop)
+                            marker.addTo(mymap)
+                        }
                     }
 
                     datalines.forEach(line => addMarkerHeat(line))
@@ -197,22 +205,16 @@ class MainComponent extends Component {
     }
 
     detailPer(e) {
-        /*
-        this.count++;
-        this.state.map.off();
-        this.state.map.remove();
+        draw = true;
+        map.off();
+        map.remove();
+        map = L.map('mapid')
         this.setState({ per: e.target.value })
-        this.drawMap(this, false);
-    */
+        this.drawMap(this);
+   
     }
 
-    /*
-    update(e) {
-        L.map.off();
-        this.setState({ radius: 500 })
-        this.drawMap(this);
-    }
-    */
+  
 
     update1(e) {
         draw = true;
