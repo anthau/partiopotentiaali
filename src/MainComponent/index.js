@@ -24,36 +24,41 @@ class MainComponent extends Component {
     count = 0;
     //reads the file
     handleChangeFile = (e: React.ChangeEvent<HTMLInputElement>) => {
+
         const fileEncoding = 'UTF-8';
         const files = e.target.files;
         const coordinates1 = [];
         let reader = new FileReader()
 
         reader.onload = (_event: Event) => {
-            const lines = reader.result.split("\n");
+            const lines = reader.result.split('\n');
             lines.forEach(row => {
 
                 const items = row.split(";");
-                coordinates1.push(
-                    {
-                        code: items[0],
-                        lat: parseFloat(items[1].replace(",", ".")),
-                        lng: parseFloat(items[2].replace(",", ".")),
-                        count: parseFloat(items[4]),
-                        per: parseFloat(items[3].replace(",", "."))
-                    }
-                )
-
-
+                const childAmount = parseFloat(items[4]);
+                console.log('test')
+                if (childAmount > 99) {
+                    coordinates1.push(
+                        {
+                            code: items[0],
+                            lat: parseFloat(items[1].replace(",", ".")),
+                            lon: parseFloat(items[2].replace(",", ".")),
+                            pop: childAmount,
+                            per: parseFloat(items[3].replace(",", ".")),
+                        }
+                    )
+                }
             });
 
             this.setState({
                 coordinates: coordinates1
             })
 
-            this.state.map.off();
-            this.state.map.remove();
-            this.drawMap(this,false);
+            draw = true;
+            map.off();
+            map.remove();
+            map = L.map('mapid')
+            this.drawMap(this);
         }
         reader.readAsText(files[0], fileEncoding);
     }
@@ -68,8 +73,8 @@ class MainComponent extends Component {
                 L: null,
                 per: 6,
                 redraw: null,
-                data: []
-
+                data: [],
+                coordinates:  []
             };
         this.drawMap(this);
     }
@@ -77,21 +82,18 @@ class MainComponent extends Component {
     drawMap(t1) {
         //this try catch prevents the annoying  map already initialized-bug!
         if (draw) {
-            draw = false;
 
-            async function test() {
+            draw = false;
+            async function init() {
                 let new1 = await fetch('test1.txt')
                     .then((r) => r.text())
                     .then(text => {
                         return text;
                     })
-
-
                 let mymap = map.setView([60, 25], 5);
-
                 let cfg = {
                     "radius": 0.03,
-                    "maxOpacity": 0.4,
+                    "maxOpacity": 0.5,
                     "maxZoom": 15,
                     "scaleRadius": true,
                     "useLocalExtrema": true,
@@ -104,7 +106,7 @@ class MainComponent extends Component {
                 let heatmapLayer = new HeatmapOverlay(cfg);
 
                 L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
-                    zoom: 17,
+                    zoom: 15,
                     maxZoom: 18,
                     attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, ' +
                         '<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
@@ -126,9 +128,16 @@ class MainComponent extends Component {
                         });
 
                     const datalines = potData.split("\n");
-                    const heatMapData = [];
-                    const addMarkerHeat = (line) => {
-
+                    let heatMapData = [];
+                    const addMarker = (line) => {
+                        //scout potential sign   
+                        if (line.pop > 99 && line.per < t1.state.per) {
+                            const marker = L.marker([line.lat, line.lon]);
+                            marker.bindPopup("Alue=" + line.code  + " Väestö" +line.pop )
+                            marker.addTo(mymap)
+                        }
+                    }
+                    const addMarkerHeat = (line) => {                     
                         const lineItems = line.split(";");
                         const area = lineItems[0];
                         const totalPop = parseInt(lineItems[4]);
@@ -136,25 +145,26 @@ class MainComponent extends Component {
                         const latitude = parseFloat(lineItems[1].replace(",", "."));
                         const longitude = parseFloat(lineItems[2].replace(",", "."));
 
-                        heatMapData.push(
-                            {
-                                lat: latitude,
-                                lon: longitude,
-                                pop: totalPop
-                            }
-                        );
+                        if (totalPop > 99) {
+                            heatMapData.push(
+                                {
+                                    lat: latitude,
+                                    lon: longitude,
+                                    pop: totalPop
+                                }
+                            );
+                        }
                   
-                        if (totalPop > 99 && scoutPer < t1.state.per) {
-
+                        if (totalPop > 99
+                            && scoutPer < t1.state.per
+                        ) {
                             //scout potential sign                       
                             const marker = L.marker([latitude, longitude]);
                             marker.bindPopup("Alue=" + area + " total=" + totalPop)
                             marker.addTo(mymap)
                         }
-
                     }
 
-                    datalines.forEach(line => addMarkerHeat(line))
 
                     const addCircle = (line) => {
                         const lineItems = line.split(";")
@@ -166,14 +176,18 @@ class MainComponent extends Component {
                         }).addTo(mymap);
                     }
 
+                    if (t1.state.coordinates.length === 0) {
+                        datalines.forEach(line => addMarkerHeat(line))
+                    }
+                    else {
+                        heatMapData = t1.state.coordinates;
+                        t1.state.coordinates.forEach(line => addMarker(line))
+                    }
                     rows.forEach(line => addCircle(line))
-
                     let testData = {
                         max: 8,                        
                         data: heatMapData
-
                     };
-
                     heatmapLayer.setData(testData);
                     heatmapLayer.addTo(mymap)
                 }
@@ -183,21 +197,21 @@ class MainComponent extends Component {
 
                         const lineItems = line.split(";")
                         const troopName = lineItems[0];
-
                         L.circle([parseFloat(lineItems[7]), parseFloat(lineItems[8])], {
                             color: "blue",
                             fillColor: "blue",
-                            fillOpacity: 0.6,
+                            fillOpacity: 0.09,
                             radius: t1.state.radius
                         }).bindPopup(troopName).addTo(mymap);
                     }
                     rows.forEach(line => addCircle(line))
                 }
             }
-            test();
+            init();
         }
     }
 
+    //asettaa kolon halutun säteen kohdilleen
     detailRadius(e) {
         draw = true;
         map.off();
@@ -207,6 +221,7 @@ class MainComponent extends Component {
         this.drawMap(this);  
     }
 
+    //Asettaa partioprosentin kohdilleen
     detailPer(e) {
         draw = true;
         map.off();
@@ -234,6 +249,7 @@ class MainComponent extends Component {
       
         if (this.state.redraw === false)
             return (<p>loading</p>)
+
         return (
             <div style={{ position: "fixed", top: -10, zIndex:1000 }} >
                     <h1>Partiopotentiaali  {this.state.data}</h1>
@@ -251,7 +267,6 @@ class MainComponent extends Component {
 
                         <p><label> <b>et&auml;isyys kolosta  {this.state.radius}</b></label><label><br />10</label><input type="range" onChange={this.detailRadius.bind(this)} id="quantity223" name="quantity2233" min="10" max="3000" defaultValue={this.state.radius} /><label>3000</label>
                             </p>
-
                         <p><label> <b>partioprosentti  {this.state.per}</b></label><label><br />1</label><input type="range" onChange={this.detailPer.bind(this)} id="quantity2213" name="quantity22313" defaultValue={this.state.per} min="3" max="30" /><label>16</label>
                             </p>
                             <br />
