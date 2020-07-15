@@ -131,13 +131,10 @@ class MainComponent extends Component {
                     let heatMapData = [];
                     const addMarker = (line) => {
                         //scout potential sign   
-                        if (line.pop > 99 && line.per < t1.state.per) {
-                            const marker = L.marker([line.lat, line.lon]);
-                            marker.bindPopup("Alue=" + line.code  + " Väestö" +line.pop )
-                            marker.addTo(mymap)
-                        }
+                   
                     }
-                    const addMarkerHeat = (line) => {                     
+                    const addMarkerHeat = (line) => {
+                     
                         const lineItems = line.split(";");
                         const area = lineItems[0];
                         const totalPop = parseInt(lineItems[4]);
@@ -160,7 +157,7 @@ class MainComponent extends Component {
                         ) {
                             //scout potential sign                       
                             const marker = L.marker([latitude, longitude]);
-                            marker.bindPopup("Alue=" + area + " total=" + totalPop)
+                            marker.bindPopup("Alue=" + area + " total=" + totalPop + " partioprosentti=" + scoutPer)
                             marker.addTo(mymap)
                         }
                     }
