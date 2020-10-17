@@ -184,7 +184,7 @@ class MainComponent extends Component {
                     const addCircle = (line) => {
                         
 						const lineItems = line.split(";")
-						alert('line' + line)
+			
                         L.circle([parseFloat(60), parseFloat(23)], {
                             color: "green",
                             fillColor: "blue",
