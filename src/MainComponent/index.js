@@ -180,7 +180,7 @@ class MainComponent extends Component {
 						
                     }
 
-
+/*
                     const addCircle = (line) => {
                         
 						const lineItems = line.split(";")
@@ -192,10 +192,10 @@ class MainComponent extends Component {
                             radius: t1.state.radius
                         }).addTo(mymap);
 					
-                    }
+                    }w
 					
 					
-
+*/
                     if (t1.state.coordinates.length === 0) {
                         datalines.forEach(line => addMarkerHeat(line))
                     }
