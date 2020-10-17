@@ -8,6 +8,9 @@ import Popup from "reactjs-popup";
 import '../App.css'
 import 'leaflet/dist/leaflet.css';
 import L from 'leaflet';
+import textFile from './lippukunnat.txt'
+import dataFile from './vaestodata.txt'
+
 delete L.Icon.Default.prototype._getIconUrl;
 
 L.Icon.Default.mergeOptions({
@@ -28,6 +31,7 @@ class MainComponent extends Component {
         const fileEncoding = 'UTF-8';
         const files = e.target.files;
         const coordinates1 = [];
+
         let reader = new FileReader()
 
         reader.onload = (_event: Event) => {
@@ -80,14 +84,17 @@ class MainComponent extends Component {
     }
 
     drawMap(t1) {
+	
         //this try catch prevents the annoying  map already initialized-bug!
         if (draw) {
 
             draw = false;
             async function init() {
-                let new1 = await fetch('test1.txt')
+				//TODO vaihda 
+                let new1 = await fetch(textFile)
                     .then((r) => r.text())
                     .then(text => {
+				
                         return text;
                     })
                 let mymap = map.setView([60, 25], 5);
@@ -121,9 +128,10 @@ class MainComponent extends Component {
      
                 //troopNames
                 if (t1.state.mode === '2') {
-                    let potData = await fetch('testData11.txt')
+                    let potData = await fetch(dataFile)
                         .then((r) => r.text())
                         .then(text => {
+					
                             return text;
                         });
 
@@ -134,6 +142,8 @@ class MainComponent extends Component {
                    
                     }
                     const addMarkerHeat = (line) => {
+						
+                 
                      
                         const lineItems = line.split(";");
                         const area = lineItems[0];
@@ -141,6 +151,13 @@ class MainComponent extends Component {
                         const scoutPer = parseFloat(lineItems[3]);
                         const latitude = parseFloat(lineItems[1].replace(",", "."));
                         const longitude = parseFloat(lineItems[2].replace(",", "."));
+						
+					    L.circle([latitude, longitude], {
+                            color: "darkgrey",
+                            fillColor: "blue",
+                            fillOpacity: 0.09,
+                            radius: t1.state.radius
+                        }).addTo(mymap);
 
                         if (totalPop > 99) {
                             heatMapData.push(
@@ -160,18 +177,24 @@ class MainComponent extends Component {
                             marker.bindPopup("Alue=" + area + " total=" + totalPop + " partioprosentti=" + scoutPer)
                             marker.addTo(mymap)
                         }
+						
                     }
 
 
                     const addCircle = (line) => {
-                        const lineItems = line.split(";")
-                        L.circle([parseFloat(lineItems[7]), parseFloat(lineItems[8])], {
+                        
+						const lineItems = line.split(";")
+						alert('line' + line)
+                        L.circle([parseFloat(60), parseFloat(23)], {
                             color: "green",
                             fillColor: "blue",
                             fillOpacity: 0.09,
                             radius: t1.state.radius
                         }).addTo(mymap);
+					
                     }
+					
+					
 
                     if (t1.state.coordinates.length === 0) {
                         datalines.forEach(line => addMarkerHeat(line))
@@ -180,7 +203,7 @@ class MainComponent extends Component {
                         heatMapData = t1.state.coordinates;
                         t1.state.coordinates.forEach(line => addMarker(line))
                     }
-                    rows.forEach(line => addCircle(line))
+                    //rows.forEach(line => addCircle(line))
                     let testData = {
                         max: 8,                        
                         data: heatMapData
@@ -191,15 +214,19 @@ class MainComponent extends Component {
 
                 else {
                     const addCircle = (line) => {
-
+						
                         const lineItems = line.split(";")
                         const troopName = lineItems[0];
+			
+				
+						
                         L.circle([parseFloat(lineItems[7]), parseFloat(lineItems[8])], {
                             color: "blue",
                             fillColor: "blue",
                             fillOpacity: 0.09,
                             radius: t1.state.radius
                         }).bindPopup(troopName).addTo(mymap);
+						
                     }
                     rows.forEach(line => addCircle(line))
                 }
